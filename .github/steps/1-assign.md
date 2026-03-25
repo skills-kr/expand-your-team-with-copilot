@@ -1,6 +1,6 @@
 ## Step 1: Copilot 코딩 에이전트 활성화
 
-[GitHub Copilot 시작하기](/skills/getting-started-with-github-copilot) 실습에서 코드 에디터에서 Copilot을 사용하여 Mergington 방과후 활동 사이트를 크게 업그레이드하는 방법을 배웠습니다. 🎻 ⚽️ ♟️
+[GitHub Copilot 시작하기](/skills-kr/getting-started-with-github-copilot) 실습에서 코드 에디터에서 Copilot을 사용하여 Mergington 방과후 활동 사이트를 크게 업그레이드하는 방법을 배웠습니다. 🎻 ⚽️ ♟️
 
 사실, 이 사이트는 이제 학교의 정규 도구가 되었습니다. 그리고 그런 관심은 좋지만, 문제를 하나 깨달았습니다! 다음 학기에 안식년을 떠나게 됩니다!
 
