@@ -16,8 +16,8 @@ _축하합니다, 이 실습을 완료하고 GitHub Copilot 코딩 에이전트�
 ### 다음 단계
 
 - 다른 GitHub Skills 실습을 확인해 보세요.
-  - [GitHub Copilot 경험 커스터마이징](https://github.com/skills/customize-your-github-copilot-experience) 실습으로 Copilot 환경 커스터마이징을 더 깊이 알아보세요.
-  - [MCP와 Copilot 통합하기](https://github.com/skills/integrate-mcp-with-copilot) 실습으로 Copilot 환경에서 Model Context Protocol 사용에 대해 더 알아보세요.
+  - [GitHub Copilot 경험 커스터마이징](https://github.com/skills-kr/customize-your-github-copilot-experience) 실습으로 Copilot 환경 커스터마이징을 더 깊이 알아보세요.
+  - [MCP와 Copilot 통합하기](https://github.com/skills-kr/integrate-mcp-with-copilot) 실습으로 Copilot 환경에서 Model Context Protocol 사용에 대해 더 알아보세요.
 
 GitHub Copilot 코딩 에이전트에 대해 더 알아보려면 다음 리소스를 확인하세요:
 
