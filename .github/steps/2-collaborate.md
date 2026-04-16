@@ -108,16 +108,16 @@ Copilot이 작업 세션을 완료했으니, 작업을 리뷰하고 피드백을
 
    <img width="350" src="https://github.com/user-attachments/assets/fd1375a4-fbdf-453e-a457-7bcb1fbbea23" />
 
-1. 설명을 읽어보면 일본 만화의 정신에 맞게 더 재미있어야 한다고 생각됩니다. Copilot에 수정을 요청합시다. 다음 텍스트를 입력하고 **Start a review**를 클릭하세요.
+1. 설명을 읽어보면 일본 만화의 정신에 맞게 더 재미있어야 한다고 생각됩니다. Copilot에 수정을 요청합시다. 다음 텍스트를 입력하고 **Comment** 버튼을 클릭하세요.
 
    ```md
    @copilot Please change this description to be inspired by Japanese Manga.
    It needs more personality to attract students.
    ```
 
-1. 변경 사항 목록 상단에서 **Finish your review** 버튼을 클릭하고 **Submit Review**를 선택하세요.
+1. 변경 사항 목록 상단에서 **Submit Review** 녹색 버튼을 선택하세요. **Finish your review** 라는 창이 화면에 표시가 됩니다. 창 우측 하단의 **Submit Review** 녹색 버튼을 클릭하여 리뷰를 제출하세요.
 
-1. 잠시 후, Copilot이 새 에이전트 세션에서 요청한 변경 사항을 작업하기 시작합니다. Pull Request 타임라인에 나타날 새 **View session** 버튼을 클릭하세요.
+1. 잠시 후, Copilot이 새 에이전트 세션에서 요청한 변경 사항을 작업하기 시작합니다. Pull Request 타임라인에 나타날 새 **View session** 버튼을 클릭하세요.  
 
     <img width="800" alt="copilot-working-on-review" src="https://github.com/user-attachments/assets/076c2546-2eed-48c9-adbc-6a4edceba762" />
 
